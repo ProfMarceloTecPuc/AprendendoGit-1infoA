@@ -1,0 +1,12 @@
+git bash here -> abre a sessão do git
+git init -> inicializa o repositório no computador
+git status -> lista a situação do repositório
+git add "nome completo.extensão" -> prepara o arquivo para o envio para o repositório remoto.
+git add . -> prepara todos os arquivos para o envio.
+git config --global user.email "e-mail do acesso ao github" -> informar qual é o e-mail de acesso ao github
+git config --global user.name "seu nome de uso no github" -> informar qual é o nome usado no acesso ao github
+git remote add origin (colar o endereço do repositório no GitHub) -> cria uma conexão com o repositório no github
+git commit -m "commit inicial" -> informar a mensagem do commit
+git push -> enviar os arquivos para o repositorio remoto
+git reflog -> mostra as alterações por número de referencia
+git reset --hard (numero-referencia) -> retorna na referencia informada.
